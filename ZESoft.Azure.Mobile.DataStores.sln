@@ -27,9 +27,24 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6C4C2D45-7CB
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{1DC2E521-F3B0-43BD-97FD-B625AA956974}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZESoft.Azure.Mobile.DataStores", "src\ZESoft.Azure.Mobile.DataStores\ZESoft.Azure.Mobile.DataStores.csproj", "{77632369-37C2-41D6-BBE6-0BB9E9F217D4}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77632369-37C2-41D6-BBE6-0BB9E9F217D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77632369-37C2-41D6-BBE6-0BB9E9F217D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77632369-37C2-41D6-BBE6-0BB9E9F217D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77632369-37C2-41D6-BBE6-0BB9E9F217D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{77632369-37C2-41D6-BBE6-0BB9E9F217D4} = {6C4C2D45-7CBC-4978-A071-A369AC218FFB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {150E64D1-775B-40E2-8B6A-9B5FD53B3570}
