@@ -11,7 +11,7 @@ Available on NuGet: (Coming soon)
 ### Master Branch
 [![Build status](https://ci.appveyor.com/api/projects/status/s5o0ybwo10qr9eq7/branch/master?svg=true)](https://ci.appveyor.com/project/chriszumberge/zesoft-azure-mobile-datastores/branch/master)
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/40faa1cc38ac407b8649a42f51edfedc)](https://www.codacy.com/app/chriszumberge/ZESoft.Azure.Mobile.DataStores?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=chriszumberge/ZESoft.Azure.Mobile.DataStores&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/42d0c416cdc34ac79956e050d98cf891)](https://www.codacy.com/app/chriszumberge/ZESoft.Azure.Mobile.DataStores?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=chriszumberge/ZESoft.Azure.Mobile.DataStores&amp;utm_campaign=Badge_Grade)
 
 CI NuGet Feed
 
