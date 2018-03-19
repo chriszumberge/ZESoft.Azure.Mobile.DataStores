@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D4D51D0F-DA0C-4DAA-AE4D-DB542617D433}"
+	ProjectSection(SolutionItems) = preProject
+		appveyor.yml = appveyor.yml
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{073E8CBC-70AC-4D0C-8862-A87934D837A6}"
+	ProjectSection(SolutionItems) = preProject
+		docs\ApiDocumentation.md = docs\ApiDocumentation.md
+		docs\README.md = docs\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nuget", "nuget", "{E6A4DCB1-203E-4234-952E-D1133E0DF655}"
+	ProjectSection(SolutionItems) = preProject
+		nuget\NuspecPack.ps1 = nuget\NuspecPack.ps1
+		nuget\ZESoft.Azure.Mobile.DataStores.nuspec = nuget\ZESoft.Azure.Mobile.DataStores.nuspec
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{4B118A3F-822F-4F6B-9FE6-40D5163B9258}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6C4C2D45-7CBC-4978-A071-A369AC218FFB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{1DC2E521-F3B0-43BD-97FD-B625AA956974}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {150E64D1-775B-40E2-8B6A-9B5FD53B3570}
+	EndGlobalSection
+EndGlobal
